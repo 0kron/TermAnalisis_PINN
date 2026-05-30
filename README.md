@@ -1,0 +1,1 @@
+# TermAnalisis_PINN
